@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/22 08:45:48.000.612,=C:\Users\FARES\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/22 08:47:24.000.254,C:\Users\FARES\Documents\Embarcadero\Studio\Projects\extrair pdf\Unit1.pas=C:\Users\FARES\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/22 08:47:24.000.254,C:\Users\FARES\Documents\Embarcadero\Studio\Projects\extrair pdf\Unit1.dfm=C:\Users\FARES\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/11/22 08:47:26.000.160,C:\Users\FARES\Documents\Embarcadero\Studio\Projects\extrair pdf\Project1.dproj=C:\Users\FARES\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/11/22 08:54:33.000.557,=C:\Users\FARES\Documents\Embarcadero\Studio\Projects\extrair pdf\Unit2.pas</Transaction>
+    <Transaction>2019/11/22 08:54:39.000.588,C:\Users\FARES\Documents\Embarcadero\Studio\Projects\extrair pdf\pdfExtrator.pas=C:\Users\FARES\Documents\Embarcadero\Studio\Projects\extrair pdf\Unit2.pas</Transaction>
+    <Transaction>2019/11/22 08:54:49.000.479,C:\Users\FARES\Documents\Embarcadero\Studio\Projects\extrair pdf\uPDFExtrator.pas=C:\Users\FARES\Documents\Embarcadero\Studio\Projects\extrair pdf\pdfExtrator.pas</Transaction>
+  </Transactions>
+</BorlandProject>
